@@ -24,9 +24,13 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://www.loom.com/share/3689b72712404a3cbf096b34800424d6">
+    <p>Jillian's Web-102 Pre-Work for CodePath Video Walkthrough</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3689b72712404a3cbf096b34800424d6-with-play.gif">
+  </a>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+Created with Loom 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +38,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Even though I wouldn't describe this assignment as challening, it did have its frustrating moments. This is because even though I am very familiar with the topics needed to complete this assignment, I hadn't used them in a while so a refresher was definitely needed. Overall, it was a very fun project and look forward to learning more with CodePath.
 
 ## License
 
